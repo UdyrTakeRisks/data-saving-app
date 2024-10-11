@@ -1,0 +1,54 @@
+Name: Ahmed2 
+Message: i am testing this app again 
+
+Name: Ahmed 
+Message: testing forms 
+
+Name: Ahmed Ali 
+Message: Hi, its postman. 
+
+Name: Ahmed Ali 
+Message: Hi its postman 2 
+
+Name: Mohamed 
+Message: Testing from html form. 
+
+Name: Mohamed 
+Message: Testing from html form. 
+
+Name: Ali 
+Message: Testing from html form. 
+
+Name: Omar 
+Message: Hi its Omar from TDS 
+
+Name: Omar Ali 
+Message: Hi its Omar from TDS 
+
+Name: Karim 
+Message: test hi 
+
+Name: Karim 
+Message: test hi 
+
+Name: Walid 
+Message: testing storage on both file and database. 
+
+Name: Osama 
+Message: testing storage again on both file and database. 
+
+Name: Hassan 
+Message: testing all good in both file and database. 
+
+Name: Wael 
+Message: hi all. 
+
+Name: Fady 
+Message: Good work. 
+
+Name: Mazen 
+Message: Good Job. 
+
+Name: Mohsen 
+Message: Ok its fine! 
+

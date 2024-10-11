@@ -1,0 +1,44 @@
+Short Documentation
+
+Experience:
+
+ - Learned more about fastapi as it was on my frameworks study list, implemented robust apis with data validation and integrated with sqlite database, i also learned alot about it while developing this application.
+ 
+ - Practiced more on docker and how to leverage the use of containers and how far it facilitates running the environments we work on.
+ 
+ - Worked more on bash scripts and how automation can give us more time in development new features instead of writing repetitive commands.
+
+ - Gained valuable experience in integrating frontend with backend specifically with the native form action and method.
+
+ - Tried to work under short time to sumbit the task within the deadline and in the same time showed off my skills in completing the task objectives and deliverables.
+ 
+ - Applied error handling mechanisms using try-except and HTTPException class.
+ 
+ 
+
+Challenges:
+
+ - Integrating the native html form with the backend api without using javascript fetch function or using frontend frameworks like axios function in React.js for example
+
+ - Opening index.html and serving static files like images to be rendered from the fastapi root endpoint.
+ 
+ - Handling api response to be rendered on the web browser.
+ 
+ - Making a customized docker image for both fastapi and sqlite.
+ 
+ - Facing some issues in writing sqlite commands in a bash script to ease testing for the stored data. 
+ 
+ 
+ 
+Future Work:
+
+ - API Authentication
+ 
+ - Server logging
+ 
+ - API response rendering in html
+ 
+ 
+ 
+ 
+ 

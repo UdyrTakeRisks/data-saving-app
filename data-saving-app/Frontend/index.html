@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Saving Application</title>
+</head>
+<style>
+    .header {
+        text-align: center;
+    }
+    .data-form {
+        text-align: center;
+    }
+    label {
+        font-weight: bold;
+        padding-left: 15px;
+    }
+</style>
+<body>
+    <div class="tds-logo">
+        <a href="https://www.tds-int.com" target="_blank">
+            <img src="assets/tds-logo.png" width="200" height="120" alt="TDS">
+        </a>
+    </div>
+    <div class="header">
+        <h4>Welcome to Data Saving Application</h4>
+        <br>
+    </div>
+    <div class="data-form">
+        <form action="http://127.0.0.1:8000/save-data" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+            <label for="message">Message:</label>
+            <input type="text" id="message" name="message">            
+            <br><br>
+            <input type="submit" value="Save">
+        </form>
+    </div>
+</body>
+</html>
